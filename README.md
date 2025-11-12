@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to My Portfolio
+# 👋 Welcome...😊 You're here..
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=DC143C&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;UI%2FUX+Enthusiast;Web+Performance+Expert" alt="Typing SVG" />
 
@@ -11,9 +11,6 @@ Let's collab on projects.... Nice of you to visit..
 
 *Turning ideas into beautiful, functional digital products*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live-DC143C?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-danwits28%40gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danwits28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcellas28)
 
 </div>
 
@@ -49,6 +46,6 @@ I'm a passionate **Full Stack Developer** who loves crafting pixel-perfect inter
 
 **Made with ❤️ by Marcellas | © 2025 | All Rights Reserved**
 
-[⬆ back to top](#)
+
 
 </div>

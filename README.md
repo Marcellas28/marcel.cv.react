@@ -10,7 +10,7 @@
 
 *Turning ideas into beautiful, functional digital products*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live-DC143C?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live-DC143C?style=for-the-badge&logo=firefox&logoColor=white)]
 [![Email](https://img.shields.io/badge/Email-danwits28%40gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danwits28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcellas28)
 

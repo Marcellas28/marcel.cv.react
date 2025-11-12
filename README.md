@@ -7,6 +7,7 @@
 ---
 
 ### 🚀 I Build Stunning Web Experiences
+|.|TO GET THE SOURCE CODE.... checkout the branch "code"|.|
 
 *Turning ideas into beautiful, functional digital products*
 
@@ -18,7 +19,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me....
 
 I'm a passionate **Full Stack Developer** who loves crafting pixel-perfect interfaces with smooth animations and seamless interactions. With expertise in modern web technologies, I create applications that are not just beautiful, but also performant and accessible.
 
@@ -37,7 +38,7 @@ I'm a passionate **Full Stack Developer** who loves crafting pixel-perfect inter
 | Category | Technologies |
 |----------|---------------|
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) .NET Core|
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>

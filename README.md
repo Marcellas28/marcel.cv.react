@@ -1,17 +1,16 @@
 <div align="center">
 
-# 👋 Welcome to My Portfolio
+# 👋 Welcome to My Portfolio <br> https://marcellas-cv.vercel.app/
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=DC143C&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;UI%2FUX+Enthusiast;Web+Performance+Expert" alt="Typing SVG" />
 
 ---
 
 ### 🚀 I Build Stunning Web Experiences
-|.|TO GET THE SOURCE CODE.... checkout the branch "code"|.|
 
 *Turning ideas into beautiful, functional digital products*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live-DC143C?style=for-the-badge&logo=firefox&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live-DC143C?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-danwits28%40gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danwits28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcellas28)
 
@@ -19,7 +18,7 @@
 
 ---
 
-## 🎯 About Me....
+## 🎯 About Me
 
 I'm a passionate **Full Stack Developer** who loves crafting pixel-perfect interfaces with smooth animations and seamless interactions. With expertise in modern web technologies, I create applications that are not just beautiful, but also performant and accessible.
 
@@ -38,7 +37,7 @@ I'm a passionate **Full Stack Developer** who loves crafting pixel-perfect inter
 | Category | Technologies |
 |----------|---------------|
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) .NET Core|
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
@@ -144,16 +143,16 @@ Progressive web app with offline capabilities and smooth UX.
 
 <table>
 <tr>
-<td width="20%"><b>2023 - Present</b></td>
-<td width="80%"><b>Senior Frontend Developer</b> | Tech Company<br/>Leading frontend architecture, mentoring junior developers, and implementing advanced animations.</td>
+<td width="20%"><b>2024 - Present</b></td>
+<td width="80%"><b>Frontend Developer</b> | TRC Company<br/>Leading frontend architecture, and implementing advanced animations and transitions.</td>
 </tr>
 <tr>
-<td><b>2021 - 2023</b></td>
-<td><b>Full Stack Developer</b> | Startup Inc<br/>Built and scaled multiple web applications from scratch using modern tech stack.</td>
+<td><b>2025</b></td>
+<td><b>ICT Assistant</b> | KMTC KILIFI<br/>Built and scaled multiple web applications from scratch using modern tech stack and managing databases.</td>
 </tr>
 <tr>
-<td><b>2019 - 2021</b></td>
-<td><b>Junior Developer</b> | Digital Agency<br/>Created responsive websites and implemented client requirements with precision.</td>
+<td><b>2023 - 2024</b></td>
+<td><b>Junior Developer</b> | Freelancing<br/>Created responsive websites and implemented client requirements with precision.</td>
 </tr>
 </table>
 
@@ -210,7 +209,7 @@ If you find my work interesting, please consider giving this repository a star! 
 
 <div align="center">
 
-**Made with ❤️ by Marcellas | © 2025 | All Rights Reserved**
+**Made by Marcellas | © 2025 | All Rights Reserved**
 
 [⬆ back to top](#)
 
